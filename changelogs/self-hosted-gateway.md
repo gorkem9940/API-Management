@@ -12,7 +12,7 @@ None
 
 ### Bug fixes
 
-- Upgraded to use .NET Core base image .NET Core base image 3.1.18 (nightly) which addressed the following vulnerabilities:
+- Upgraded to use .NET Core base image 3.1.18 (nightly) which addressed the following vulnerabilities:
 
   - CVE-2021-36159
   - CVE-2021-22924
